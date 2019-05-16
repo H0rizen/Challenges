@@ -8,7 +8,7 @@ protections layers based on :
 
 -character sanitization
 
--whitelisting
+-blacklisting
 
 test it online : https://hack.me/104851/ultimate-xss-it-challenge.html
 
