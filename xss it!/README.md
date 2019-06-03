@@ -12,4 +12,4 @@ protections layers based on :
 
 test it online : https://hack.me/104851/ultimate-xss-it-challenge.html
 
-if u stuck : https://pastebin.com/qP1EpAcX
+in case you stuck : https://pastebin.com/qP1EpAcX
